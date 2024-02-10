@@ -1,0 +1,8 @@
+
+Cuentas de usuario de \\LAPTOP-GGB8GCDK
+
+-------------------------------------------------------------------------------
+Administrador            DefaultAccount           Invitado                 
+sonri                    WDAGUtilityAccount       
+Se ha completado el comando correctamente.
+
